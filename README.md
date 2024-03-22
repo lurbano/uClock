@@ -1,2 +1,2 @@
 # uClock
-Clock based off classTime to focus on led clocks using MakerspaceNetwork
+Clock based off classTime to focus on led clocks using MakerspaceNetwork on picoW
